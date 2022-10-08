@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning anything that piques my interest.
 - 💞️ I’m looking to collaborate on anything I think is "cool," profitable, or especially both.
 - 📫 How to reach me: <!--<last name><period><first name><at symbol><gmail><period><com>--> view the source code of this file.
+- Note for employers: I am humbly convinced that I can do anything physically possible given sufficient resources, time, and incentives. If you can't find anyone else who can do what you need, consider presenting me with an offer.
 
 <!---
 knight7/knight7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
